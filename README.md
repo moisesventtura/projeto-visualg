@@ -1,2 +1,2 @@
-# projeto-visualg
-Projeto criados em Portugol no visualg
+# projeto_curso_visualg
+Projeto crtiado para escrever portugol na ferramenta visualg
